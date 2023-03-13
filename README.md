@@ -4,6 +4,6 @@
 | Names         | GitHub User Names |                            Tasks                                        |
 | --------------|:-----------------:| ------------------------------------------------------------------------|
 | Dany Marcha   | danmar0801        | Created diagrams for NFA, helped with code to simulate different NFA's  |
-| Austin Aluzzi | Text              | Created Diagrams For NFA, wrote code to simulate the NFA                |
-| Daniel        | Text              |    $1                                                                   |
+| Austin Aluzzi    | Text              | Created Diagrams For NFA, wrote code to simulate the NFA                |
+| Daniel plascensia        | exodiusLux            |    cretaed diagrams for NFA, hlped with code to simulate nfas                                                                    |
 
