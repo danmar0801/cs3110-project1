@@ -14,7 +14,7 @@ public class Main {
         };
 
         Transition[] transitions = {
-                new Transition(states[0], states[1], new char[] { '0','1','2','3','4','5','6','7','8','9' }),
+                new Transition(states[0], states[1], new char[] { '1','2','3','4','5','6','7','8','9' }),
                 new Transition(states[0], states[2], new char[] { '0' }),
                 new Transition(states[1], states[1], new char[] { '0','1','2','3','4','5','6','7','8','9' }),
                 new Transition(states[2], states[2], new char[] { '0' }),
