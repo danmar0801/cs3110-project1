@@ -15,11 +15,11 @@ public class Main {
 
         Transition[] transitions = {
                 new Transition(states[0], states[1], new char[] { '0' }),
-                new Transition(states[1], states[2], new char[] { 'o', 'O' }),
-                new Transition(states[2], states[3], new char[] { '0','1','2','3','4','5','6','7' }),
-                new Transition(states[3], states[3], new char[] { '0','1','2','3','4','5','6','7' }),
+                new Transition(states[1], states[2], new char[] { 'x', 'x' }),
+                new Transition(states[2], states[3], new char[] { '0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F','a','b','c','d','e','f' }),
+                new Transition(states[3], states[3], new char[] { '0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F','a','b','c','d','e','f' }),
                 new Transition(states[3], states[4], new char[] { '-'}),
-                new Transition(states[4], states[3], new char[] { '0','1','2','3','4','5','6','7' }),
+                new Transition(states[4], states[3], new char[] { '0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F','a','b','c','d','e','f' }),
         };
 
         Automaton nfa = new Automaton(transitions, states[0]);
