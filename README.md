@@ -12,10 +12,10 @@
 ![DeciInteger NFA](https://user-images.githubusercontent.com/48169746/224893148-d76d3b9a-7c05-48f1-ad41-31261bc0d5ba.png)
 
 ### Hexi-Integers.
-![HexiInteger NFA](https://user-images.githubusercontent.com/48169746/224893195-72259929-6553-4136-8cbf-c1695790b587.png)
+![HexiInteger NFA](https://user-images.githubusercontent.com/48169746/224911324-78a93a10-86eb-46ad-8e2f-2ff329190643.png)
 
 ### Octal-Integers.
-![OctalInteger NFA](https://user-images.githubusercontent.com/48169746/224893104-158fc1bd-8911-44ac-b4b8-a5259838c6ae.png)
+![OctalInteger NFA](https://user-images.githubusercontent.com/48169746/224911268-7f15d7fb-c496-44fc-88c4-0876234d4262.png)
 
 ## To view the code, please head to this Link
 [cs3110-project1/cs3110-project1/src/](https://github.com/danmar0801/cs3110-project1/tree/master/cs3110-project1/src)
