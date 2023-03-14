@@ -19,6 +19,7 @@ public class Main {
                 new Transition(states[2], states[3], new char[] { '0','1','2','3','4','5','6','7' }),
                 new Transition(states[3], states[3], new char[] { '0','1','2','3','4','5','6','7' }),
                 new Transition(states[3], states[4], new char[] { '-'}),
+                new Transition(states[2], states[4], new char[] { '-'}),
                 new Transition(states[4], states[3], new char[] { '0','1','2','3','4','5','6','7' }),
         };
 
